@@ -28,4 +28,8 @@ Points to take care.
 ->for manual configuration and tunnning please use http://www.rabbitmq.com/configure.html#config-items  
 
 
+if you have any query please feel free to reach out me on vivekrajyaguru1993@gmail.com or +919408753791.
+
+I am always open for help in open source stuff Java, Angular 2/4, Python, JavaScript, Jquery, Spring, Hibernate.
+
 Thanks.
